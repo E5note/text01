@@ -8,7 +8,7 @@
     //事件event
 
 
-//我们可以定义一个事件，然后订阅事件，触发事件。
+//我们可以定义一个事件，然后订阅事件，触发事件。event可以定义多个方法，可以订阅多个方法。
 public class MyClass
 {
     public event Action MyEvent; //定义一个事件
