@@ -1,4 +1,6 @@
-﻿namespace 线性存储和链式存储
+//我在main中再次拉了一坨，嘻嘻
+
+namespace 线性存储和链式存储
 {
     //1.定义委托(委托的声明)
     public delegate void GetNumber();  //无参无返回值
